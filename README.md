@@ -17,6 +17,11 @@ On publie nos recherches et nos leçons, avec leurs sources et leur statut de pr
 - [Coding](coding/) : 33 problèmes réels et leur résolution.
 - [Design web](design-web/) : les règles qu'on applique aux sites, sourcées.
 - [Marketing](marketing/) : 165 techniques classées pour 115 types de commerce.
+- [IA confidentielle](ia-confidentielle/) : masquer avant d'envoyer à un modèle d'IA, la méthode et les résultats mesurés, échecs compris.
+- [Fiabilité](fiabilite/) : ni deux fois, ni « livré » sans l'être. Patrons, tests et checklist.
+- [Front-end](front-end/) : tendances triées et prise en charge CSS mesurée en novembre 2026.
+- [Blocs libres](blocs-libres/) : quelles licences permettent de vendre un site fait de blocs libres.
+- [ERP](erp/) : marché et obligations québécoises d'un logiciel de gestion pour PME.
 - [Psychologie](psychologie/) : l'index de 138 principes et 15 fiches complètes. Tous droits réservés : ce dossier n'est pas sous licence MIT.
 
 ## Outil partagé : indicatif-lieu
@@ -48,7 +53,7 @@ Node 22.6 ou plus récent.
 
 This is our public space: report a problem, suggest an idea, or use the tools we share. Security issues go to support@medcode.ca, not here.
 
-We also publish what we learned: [coding](coding/) lessons, [web design](design-web/) rules, [marketing](marketing/) rankings and an applied [psychology](psychologie/) sample (all rights reserved, not MIT), in French with an English summary in each folder.
+We also publish what we learned: [coding](coding/) lessons, [web design](design-web/) rules, [marketing](marketing/) rankings, a [confidential AI gateway](ia-confidentielle/) evaluation method, [reliability](fiabilite/) patterns, [front-end](front-end/) support data, [free block licences](blocs-libres/), [management software](erp/) obligations in Quebec, and an applied [psychology](psychologie/) sample (all rights reserved, not MIT), in French with an English summary in each folder.
 
 `indicatif-lieu` returns the local area codes of a Canadian business from its postal code or city.
 
