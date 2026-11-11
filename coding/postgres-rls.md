@@ -1,6 +1,6 @@
 # PostgreSQL et sécurité au niveau des lignes (RLS)
 
-Ces leçons viennent de défauts trouvés puis corrigés. Elles valent pour Postgres en général et pour Supabase en particulier.
+Ces leçons viennent de défauts trouvés puis corrigés. Elles portent sur la RLS de PostgreSQL et valent pour toute base Postgres, y compris derrière PostgREST.
 
 Pour tester une politique sans rien casser : dans une transaction annulée, `set local role authenticated`, poser les claims de l'utilisateur, faire l'opération, puis `rollback`.
 
