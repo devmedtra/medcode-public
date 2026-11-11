@@ -14,10 +14,10 @@ Une faille de sécurité ne se signale pas ici. Écris à support@medcode.ca.
 
 On publie nos recherches et nos leçons, avec leurs sources et leur statut de preuve.
 
-- [Coding](coding/) : 34 problèmes réels et leur résolution.
+- [Coding](coding/) : 33 problèmes réels et leur résolution.
 - [Design web](design-web/) : les règles qu'on applique aux sites, sourcées.
 - [Marketing](marketing/) : 165 techniques classées pour 115 types de commerce.
-- [Psychologie](psychologie/) : l'index de 138 principes et 15 fiches complètes.
+- [Psychologie](psychologie/) : l'index de 138 principes et 15 fiches complètes. Tous droits réservés : ce dossier n'est pas sous licence MIT.
 
 ## Outil partagé : indicatif-lieu
 
@@ -48,10 +48,12 @@ Node 22.6 ou plus récent.
 
 This is our public space: report a problem, suggest an idea, or use the tools we share. Security issues go to support@medcode.ca, not here.
 
-We also publish what we learned: [coding](coding/) lessons, [web design](design-web/) rules, [marketing](marketing/) rankings and an applied [psychology](psychologie/) sample, in French with an English summary in each folder.
+We also publish what we learned: [coding](coding/) lessons, [web design](design-web/) rules, [marketing](marketing/) rankings and an applied [psychology](psychologie/) sample (all rights reserved, not MIT), in French with an English summary in each folder.
 
 `indicatif-lieu` returns the local area codes of a Canadian business from its postal code or city.
 
 ## Licence
 
-MIT, Medtra Inc.
+MIT, Medtra Inc. Sauf le dossier `psychologie/` : tous droits réservés, voir [psychologie/LICENSE](psychologie/LICENSE).
+
+MIT, except the `psychologie/` folder: all rights reserved.

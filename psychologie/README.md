@@ -14,11 +14,11 @@ Dans chaque fiche, [FAIT] = observé dans une source citée, [INFÉRENCE] = notr
 
 ## Fiches publiées
 
-- [Effet d'ancrage](principes/ancrage.md) · solide
+- [Effet de leurre (dominance asymétrique)](principes/effet-de-leurre.md) · mitigé
 - [Aversion à la perte](principes/aversion-perte.md) · solide
 - [Biais du statu quo](principes/biais-statu-quo.md) · solide
 - [Effet de certitude](principes/effet-de-certitude.md) · solide
-- [Biais des coûts irrécupérables](principes/cout-irrecupere.md) · mitigé
+- [Effet de dotation](principes/effet-de-dotation.md) · solide
 - [Lecture en F (balayage)](principes/balayage-en-f.md) · mitigé
 - [Cécité aux bannières](principes/cecite-aux-bannieres.md) · mitigé
 - [Stéréotype « ce qui est beau est bon »](principes/beau-donc-bon.md) · solide
@@ -38,14 +38,14 @@ Dans chaque fiche, [FAIT] = observé dans une source citée, [INFÉRENCE] = notr
 |---|---|
 | Aversion à l'ambiguïté | solide |
 | [Aversion à la perte](principes/aversion-perte.md) | solide |
-| [Biais des coûts irrécupérables](principes/cout-irrecupere.md) | mitigé |
+| Biais des coûts irrécupérables | mitigé |
 | Biais du présent (escompte hyperbolique) | solide |
 | [Biais du statu quo](principes/biais-statu-quo.md) | solide |
-| [Effet d'ancrage](principes/ancrage.md) | solide |
+| Effet d'ancrage | solide |
 | [Effet de certitude](principes/effet-de-certitude.md) | solide |
 | Effet de compromis (aversion pour les extrêmes) | mitigé |
 | Effet de l'option par défaut | solide |
-| Effet de leurre (dominance asymétrique) | mitigé |
+| [Effet de leurre (dominance asymétrique)](principes/effet-de-leurre.md) | mitigé |
 | Erreur de planification | solide |
 | Fatigue décisionnelle | fragile |
 | Heuristique de disponibilité | mitigé |
@@ -122,7 +122,7 @@ Dans chaque fiche, [FAIT] = observé dans une source citée, [INFÉRENCE] = notr
 | [Cadrage temporel du prix (« quelques sous par jour »)](principes/cadrage-temporel-du-prix.md) | mitigé |
 | Comptabilité mentale | solide |
 | Douleur du paiement (moyen de paiement) | mitigé |
-| Effet de dotation | solide |
+| [Effet de dotation](principes/effet-de-dotation.md) | solide |
 | Effet du prix zéro (« gratuit ») | mitigé |
 | Inférence prix-qualité | mitigé |
 | Offre groupée (bundling) | mitigé |
@@ -232,8 +232,8 @@ Dans chaque fiche, [FAIT] = observé dans une source citée, [INFÉRENCE] = notr
 
 ## Licence
 
-Les textes de ce dossier sont des textes originaux de Medtra Inc. Les études restent la propriété de leurs auteurs et sont citées par référence.
+Tous droits réservés, Medtra Inc. 2026. Les fiches de ce dossier ne sont pas couvertes par la licence MIT du dépôt. Voir [LICENSE](LICENSE). Les études restent la propriété de leurs auteurs et sont citées par référence.
 
 ---
 
-**English summary.** An evidence-graded library of applied psychology principles for small businesses (solid, mixed or fragile evidence). This folder publishes the full index of names and statuses plus 15 full sheets in French. The complete library is available on request.
+**English summary.** An evidence-graded library of applied psychology principles for small businesses (solid, mixed or fragile evidence). This folder publishes the full index of names and statuses plus 15 full sheets in French. The complete library is available on request. All rights reserved: these sheets are not covered by the repository MIT licence.
