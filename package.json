@@ -1,0 +1,9 @@
+{
+  "name": "@medcode/indicatif-lieu",
+  "version": "1.0.0",
+  "description": "Indicatifs régionaux canadiens recommandés d'après un code postal ou une ville.",
+  "type": "module",
+  "main": "src/indicatif-lieu.ts",
+  "scripts": { "test": "node --experimental-strip-types --test test/*.test.ts" },
+  "license": "MIT"
+}
